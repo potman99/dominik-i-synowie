@@ -1,0 +1,93 @@
+{
+    "navbar": {
+      "start": "Start",
+      "aboutus": "O nas",
+      "services": "Usługi",
+      "orders": "Zamówienia",
+      "contact": "Kontakt",
+      "kitchen": "Meble kuchenne",
+      "bathroom": "Meble łazienkowe",
+      "veneer": "Kolekcja fornir",
+      "office": "Meble biurowe",
+      "upholstery": "Siedziska tapicerowane",
+      "wardrobes": "Szafy, garderoby, regały"
+    },
+    "Start":{
+      "p1":"W naszych realizacjach, kierujemy się przede wszystkim dobrym kontaktem z klientem, fachowością, kreatywnością, sumiennością, terminowością oraz ",
+      "p2": "BARDZO DOBRĄ JAKOŚCIĄ NASZYCH MEBLI.",
+      "p3": "Nasze meble cechuje długoletnia żywotność i funkcjonalność, a wygląd gwarantuje ponadczasowość.",
+      "p4": "Zawsze staramy się doradzić klientowi, któremu brak jest wiedzy w dziedzinie meblarstwa jak i wzornictwa meblowego.",
+      "p5": "Ponieważ jesteśmy małą, rodzinną firmą z prawie stuletnimi tradycjami, to wykonujemy nasze usługi podchodząc do każdego klienta indywidualnie, szanując jego zdanie i wszelkie sugestie."
+    },
+    "AboutUs":{
+      "history":{
+        "d1": "1927",
+        "t1": "Jesteśmy małą, firmą rodzinną, której tradycje sięgają 1927 roku. 13 grudnia tegoż roku, nestor rodu Dominików, Stefan, uzyskał tytuł majstra stolarskiego. Przez kolejne lata Stefan pracował w zakładach stolarskich i produkcji drzewnej.",
+        "d2": "1938",
+        "t2": "W 1938 roku przychodzi na świat jego syn, Roman, który to po śmierci poprowadził dalej zakład.",
+        "d3": "1956",
+        "t3": "Po zawirowaniach wojennych, w 1956 roku, Stefan na stałe przeprowadza się do Ostrowca Św., gdzie przy ulicy Czystej otwiera zakład stolarski. Prowadzi go do 1968 roku. W tym też roku zakład zostaje przeniesiony na ulicę Sienkiewicza 49 gdzie ma siedzibę do dnia dzisiejszego.",
+        "d4": "1970",
+        "t4": "W 1970 Stefan umiera i od tego momentu, zakład prowadzi syn Roman. Firma, mimo przeciwności dawnego ustroju, funkcjonuje pod jego przewodnictwem do 2009 roku, w którym to, przechodzi na emeryturę.\n Tradycje rodzinne w zakresie stolarstwa meblowego, kontynuują jego synowie, Tomasz i Grzegorz.",
+        "d5": "2023",
+        "t5": "Obecnie zakład prowadzi Grzegorz, który dba o zachowanie tradycji i stara się aby dobre imię firmy Dominików kojarzyło się z meblami na wymiar nie tylko w Ostrowcu Św."
+      },
+      "after_hours":{
+        "p1": "Pasje każdego człowieka to bardzo ważna rzecz, dlatego ja również ją mam - SPORT, a mówiąc konkretne triathlon. Od kilku lat amatorsko uprawiam tą dyscyplinę sportu.\n Tak jak i w pracy zawodowej, podobnie w sporcie podchodzę do mojej pasji bardzo poważnie. Daje mi ona siłę i moc do pokonywania wszelkich trudności. Uczy pokory, poszanowania innego człowieka, pozwala przezwyciężać własne słabości.",
+        "p2": "Triathlon daje mi energię do pracy - w zdrowym ciele, zdrowy duch."
+      }
+    },
+
+    "FAQ": {
+        "q1": "Czy pomiar i wstępny pomiar jest płatny?",
+        "a1": "Pomiar i wstępny projekt klient otrzymuje od nas bezpłatnie.",
+        "q2": "Czy inwestor otrzymuje umowę na wykonanie usługi ?",
+        "a2": "Wszystkie realizacje rozpoczynamy od podpisania umowy wykonawczej, tak aby inwestor czuł się bezpiecznie.",
+        "q3": "Ile trwa gwarancja na meble?",
+        "a3": "Nasze meble posiadają dwuletnią gwarancję, a akcesoria, dożywotnią.",
+        "q4": "Jak wygląda montaż mebli?",
+        "a4": "Montaż oraz wszelkie prace w pomieszczeniach powierzonych przez inwestora, wykonujemy z zachowaniem wszelkiej ostrożności i poszano",
+        "q5": "Czy w Waszej rmie można wykonać projekt?",
+        "a5": "Nie mający wizji, pomysłu na umeblowanie swojego domu klienci, mogą też liczyć na pomoc projektową, którą wykonują dla nas sprawdzeni dekoratorzy wnętrz i projektanci.",
+        "q6": "Na jakim obszarze działa firma?",
+        "a6": "Terenem działania naszej firmy jest cała Polska."
+    },
+    "Buttons": {
+      "FooterBtn": "Mapa",
+      "ContactBtn1": "Prowadź",
+      "ContactBtn2": "501 261 555",
+      "ContactBtn3": "728 327 003"
+    },
+    "ServicesKitchen": {
+      "p1": "Meble kuchenne, są naszą specjalnością. Nie boimy się wyzwań i wymagających projektów. U nas wykonasz meble w każdym stylu. Meble klasyczne-ponadczasowe, meble nowoczesne, meble w stylu angielskim i skandynawskim. Twoje marzenie to dla nas wyzwanie.",
+      "p2": "Do wykonania tych mebli używamy materiałów o najwyższej jakości. Płyty tylko o grubości 18 mm oklejonych folią PCV. \n Stosujemy nogi o podwyższonej wytrzymałości, a akcesoria ( zawiasy, prowadnice szuflad, podnośniki, systemy segregacji odpadków, systemy szafek narożnych - magic cornery oraz carga) z dożywotnią gwarancją ( firm takich jak: BLUM, REJS, PEKA, ATM).\nFronty MDF, fronty i elementy fornirowane oraz blaty drewniane, są lakierowane przez wyspecjalizowanego lakiernika, który to wykonuje tą pracę wyłącznie dla Naszej firmy. Mamy dzięki temu możliwość szybkiej poprawki (na wypadek uszkodzenia), dorobienia lub przerobienia wszystkich elementów lakierowanych.",
+      "p3": "Wzory frontów możemy tworzyć na indywidualną prośbę klienta, lub też wykorzystując gotowe wzornictwo.\n Wszystko to sprzyja tworzeniu mebli nietuzinkowych, oryginalnych i jedynych w swoim rodzaju, tak aby sprostać gustom najbardziej wymagających klientów.",
+      "p4": "Wszystko to sprzyja tworzeniu mebli nietuzinkowych, oryginalnych i jedynych w swoim rodzaju, tak aby sprostać gustom najbardziej wymagających klientów."
+    
+    },
+    "ServicesBathroom": {
+      "p1": "Zabudowy łazienkowe, pralnie, powinny być tak zaprojektowane, aby były jak najbardziej funkcjonale. Łazienki są niejednokrotnie małymi pomieszczeniami i pełnią również funkcję pralni. Dlatego staramy się je tworzyć tak, aby sprostać tym wszystkim wymaganiom.",
+      "p2": "Wykonujemy je z odpowiednich materiałów, odpornych na wilgoć. Zawsze w realizacji mebli łazienkowych kierujemy się tym, aby spełnić wszystkie oczekiwania klienta.",
+      "p3": "Pralnie tworzymy również z materiałów odpornych na wilgoć, niejednokrotnie stosując zabiegi, które powodują, że z naszymi meblami nie musisz obawiać się rozlanej wody."
+    },
+    "ServicesVeneer": {
+      "p1": "Dlatego „bawimy się „ w tworzenie kolekcji z wykorzystaniem naturalnego drewna, fornirów drewnianych, starych elementów dekoracyjnych (nogi maszyn, poręcze drewniane, stare zamki, klamki itp.)",
+      "p2": "Wiedząc jak drogie jest naturalne drewno, postanowiliśmy wykorzystać fornir, który daje nam możliwość „ obcowania” z naturalnym produktem.\n W tej kolekcji realizujemy indywidualne „pomysły” naszych klientów oraz tworzymy własne projekty, wolnostojącej galanterii meblowe",
+      "p3": "Wykonujemy te realizuje głównie z płyt fornirowanych, które to są płytami wiórowymi pokrytymi cienkim obłogiem z naturalnego drewna. Stasujemy również elementy z litego drewna, blaty dębowe, jesionowe, bukowe oraz nogi drewniane. Możemy tą kolekcję urozmaicić również o wzornictwo loftowe, stosując elementy metalowe (nogi, ramy itp.)",
+      "p4": "Możemy również na życzenie klienta koloryzować fornir oraz drewno bejcą na dowolny, wybrany przez klienta kolor."
+    },
+    "ServicesOffice": {
+      "p1": "Szafy, garderoby, regały, komody, przy projektowaniu i wykonywaniu tego rodzaju mebli, kierujemy się ich funkcjonalnością i wykorzystaniem każdej wolnej przestrzeni.",
+      "p2": "Szafy wykonujemy z płyt lakierowanych oraz laminowanych, często uzupełniając je lustrami lub szybami LACOBEL. Często wkomponowujemy lamele jako elementy dekoracji przestrzennej na ścianach. Stosujemy różnego rodzaju systemy, pomagające w utrzymaniu należytego porządku w szafach i garderobach ( wieszaki na spodnie, koszule, krawaty, półki na biżuterię, segregatory bielizny, systemy trzymania rur odkurzacza, systemy mini stacji prasowalniczej)."
+    },
+    "ServicesWardrobes": {
+      "p1": "Niejednokrotnie wykonywaliśmy trudne i skomplikowane przedsięwzięcia dla bardzo wymagających inwestorów. Tworzymy indywidualne biura w symbolice firmowej (wykonaliśmy biurko w kształcie logo gwiazdy mercedesa) oraz wiele innych.",
+      "p2": "Tworzymy recepcje do gabinetów kosmetycznych, fryzjerskich, lekarskich. Wykonujemy wszelkiego rodzaju zabudowy regałowe, magazynowe dla księgowych, szkół i instytucji użyteczności publicznej."
+    },
+    "ServicesUpholstery": {
+      "p1": "Od jakiegoś czasu bardzo często realizujemy zamówienia na szafy i komody z siedziskami tapicerowanymi, które to obecnie są bardzo modne i popularne w wzornictwie meblowym.",
+      "p2": "Wszystkie te zestawy tworzymy z zachowaniem szczególnej dbałości o estetykę i kolorystykę elementów tapicerowanych, tak aby dobrze komponowały się z pozostałymi meblami w domu ( kanapy, fotele itp.)",
+      "p3": "Stosujemy materiały o najwyższej jakości, odporne na zabrudzenia i łatwe w czyszczeniu. Elementy te wykonuje dla nas firma tapicerska, tak więc możemy realizować każde, niepowtarzalne zamówienie w kształcie i wymiarze."
+    }
+  }
+  
