@@ -40,7 +40,7 @@ const ServicesScreenVeneer = () => {
                  </div>
      
                  <div className="mt-24 md:mt-36 w-5/6 md:w-4/6 h-full flex flex-col gap-4 whitespace-pre-wrap text-justify">
-                    <p>Jak większość ludzi kochamy naturę, lubimy rzeczy stworzone przez przyrodę, które w swoim wzornictwie są niepowtarzalne - słoje, kolorystyka. Lubimy tez rzeczy oryginalne, ponadczasowe, które kojarzą nam się z <span className="font-extrabold">solidnością, trwałością i</span> <span className="font-extrabold text-mainOrange">niezawodnością.</span></p>
+                    <p>Jak większość ludzi kochamy naturę, lubimy rzeczy stworzone przez przyrodę, które w swoim wzornictwie są niepowtarzalne - słoje, kolorystyka. Lubimy też rzeczy oryginalne, ponadczasowe, które kojarzą nam się z <span className="font-extrabold">solidnością, trwałością i</span> <span className="font-extrabold text-mainOrange">niezawodnością.</span></p>
                     <p>{text.ServicesVeneer.p1}</p>
                     <p>{text.ServicesVeneer.p2}</p>
                     <p>{text.ServicesVeneer.p3}</p>
