@@ -61,7 +61,6 @@ const ServicesScreenKitchen = () => {
             </div>
 
             <div className="mt-24 md:mt-36 w-5/6 md:w-4/6 h-full flex flex-col gap-4 whitespace-pre-wrap text-justify">
-                <p>{text.ServicesKitchen.p1}</p>
                 <h2 className="font-headers text-xl">Twoje <span className="font-headers text-mainOrange">marzenie</span> to dla nas wyzwanie</h2>
                 <p>{text.ServicesKitchen.p1}</p>
                 <p>{text.ServicesKitchen.p2}</p>

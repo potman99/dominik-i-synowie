@@ -18,7 +18,7 @@ const AboutUsScreen = () => {
             </div>
             
             
-            <div className="md:mt-20 w-5/6 md:w-4/6 h-full flex flex-col gap-8 whitespace-pre-wrap text-justify">
+            <div className="md:mt-20 w-5/6 md:w-4/6 h-full flex flex-col gap-8 whitespace-pre-wrap">
                 <h2 className="font-headers text-3xl">Historia <span className="font-headers text-mainOrange">firmy</span></h2>
                 <ul className="flex flex-col gap-4">
                     <DateParagraph date={text.AboutUs.history.d1} text={text.AboutUs.history.t1} />
