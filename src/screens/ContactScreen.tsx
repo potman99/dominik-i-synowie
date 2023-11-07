@@ -1,4 +1,3 @@
-import React from "react";
 import LogImg from '../assets/contact/log.png'
 import Button from "../components/Button";
 import GoogleMap from "../components/GoogleMapContainer";

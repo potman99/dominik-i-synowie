@@ -1,4 +1,3 @@
-import React from "react";
 import KitchenGraphic from "../assets/kitchen/kitchen_graphic.png"
 import text from '../constant/text.json'
 import PhotoGallery from "../components/PhotoGallery";

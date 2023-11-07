@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Link, Outlet, Route, Routes } from 'react-router-dom';
+import {Outlet, Route, Routes } from 'react-router-dom';
 import { NavigationConstants } from '../constant/NavigationConstants';
 import StartScreen from '../screens/StartScreen';
 import ContactScreen from '../screens/ContactScreen';

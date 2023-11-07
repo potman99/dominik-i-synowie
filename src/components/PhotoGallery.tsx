@@ -1,13 +1,13 @@
-import { SetStateAction, useState } from "react";
+import { useState } from "react";
 
 interface Props {
     photos: string[]
 }
 
 const PhotoGallery: React.FC<Props> = (props: Props) => {
-    const [selectedPhoto, setSelectedPhoto] = useState(null);
+    const [selectedPhoto, setSelectedPhoto] = useState<string | null>(null)
 
-    const openPhoto = (photo: SetStateAction<null>) => {
+    const openPhoto = (photo: string) => {
         setSelectedPhoto(photo);
       };
     

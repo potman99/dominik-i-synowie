@@ -1,4 +1,3 @@
-import React from "react";
 import text from '../constant/text.json'
 import BathroomGraphic from "../assets/bathroom/bathroom_graphic.png"
 import PhotoGallery from "../components/PhotoGallery";

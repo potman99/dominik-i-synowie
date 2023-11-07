@@ -1,4 +1,3 @@
-import React from "react";
 import text from '../constant/text.json'
 import VeneerGraphic from "../assets/veneer/veneer_graphic.png"
 

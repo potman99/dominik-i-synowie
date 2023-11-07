@@ -1,15 +1,12 @@
-import React from "react";
 import Vector1 from '../assets/start/weird2.svg'
 import Vector2 from '../assets/start/weird3.svg'
 import Furniture from '../assets/start/furniture.png'
 import text from '../constant/text.json'
 import BusinessCard from '../assets/start/IMG_3285.jpeg'
-import LoadingScreen from "./LoadingScreeen";
 
 const StartScreen = () => {
     return(
         <>
-        {/* <LoadingScreen /> */}
         <div className=" w-full flex flex-col items-center">
             
             <div className="relative w-full h-screen flex flex-col-reverse md:flex-row justify-center md:justify-between items-center ">

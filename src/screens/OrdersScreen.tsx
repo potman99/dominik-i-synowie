@@ -1,4 +1,3 @@
-import React from "react";
 import FAQ_Item from "../components/FAQ_Item";
 import text from "../constant/text.json"
 

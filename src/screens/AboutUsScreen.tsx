@@ -1,4 +1,3 @@
-import React from "react";
 import CarpenterImg from '../assets/about_us/old-carpenter.png'
 import CarpenterLable from '../assets/about_us/carpenter-label.png'
 import text from '../constant/text.json'

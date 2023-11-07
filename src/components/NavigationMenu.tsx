@@ -1,11 +1,8 @@
 // src/NavigationMenu.tsx
-import React, {useEffect, useState} from 'react';
-import { Link } from 'react-router-dom';
+import React, {useState} from 'react';
 import { NavigationConstants } from '../constant/NavigationConstants';
 import text from '../constant/text.json'
 import NavItem from "./NavItem"
-import { TfiMenu, TfiClose } from "react-icons/tfi";
-import { easeIn, motion } from "framer-motion";
 import DropdownMenu from './DropdownMenu';
 
 const NavigationMenu: React.FC = () => {

@@ -1,4 +1,3 @@
-import React from "react";
 import text from '../constant/text.json'
 import OfficeGraphic from "../assets/office/office_graphic.png"
 import PhotoGallery from "../components/PhotoGallery";

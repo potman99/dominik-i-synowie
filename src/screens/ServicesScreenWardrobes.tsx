@@ -1,4 +1,3 @@
-import React from "react";
 import text from '../constant/text.json'
 import WardrobeGraphic from "../assets/wardrobes/wardrobe_graphic.png"
 import PhotoGallery from "../components/PhotoGallery";

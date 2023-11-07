@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Logo from '../assets/logo.png'
 import Screw from '../assets/loading_screen/pngwing_com-min.png'
 

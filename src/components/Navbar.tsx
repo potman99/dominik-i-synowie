@@ -1,5 +1,5 @@
 // src/NavigationMenu.tsx
-import React, { useState } from 'react';
+import React from 'react';
 import NavigationMenu from './NavigationMenu';
 import LogoImg from '../assets/logo.png'
 
