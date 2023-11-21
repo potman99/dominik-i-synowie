@@ -36,7 +36,7 @@ const ServicesScreenUpholstery = () => {
                      </div>
                  </div>
      
-                 <div className="m-36 w-4/6 h-full flex flex-col gap-4 whitespace-pre-wrap text-justify text-lg">
+                 <div className="mt-24 md:mt-36 w-5/6 md:w-4/6 h-full flex flex-col gap-4 whitespace-pre-wrap text-justify">
                     <p>{text.ServicesUpholstery.p1}</p>
                     <p>{text.ServicesUpholstery.p2}</p>
                     <p>{text.ServicesUpholstery.p3}</p>
