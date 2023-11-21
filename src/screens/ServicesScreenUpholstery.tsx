@@ -42,7 +42,7 @@ const ServicesScreenUpholstery = () => {
                     <p>{text.ServicesUpholstery.p3}</p>
 
                 </div>
-                <div className="m-18 w-full h-full flex flex-col justify-center items-center">
+                <div className="mt-32 w-full h-full flex flex-col justify-center items-center">
                     <div className="w-4/6 mb-10">
                         <h2 className="font-headers text-3xl">Nasze <span className="font-headers text-mainOrange">realizacje</span></h2>
                     </div>                
