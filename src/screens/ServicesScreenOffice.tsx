@@ -24,10 +24,10 @@ const ServicesScreenOffice = () => {
         <div className="flex flex-col items-center">   
             <div className="relative w-full flex items-center justify-center h-[440px]" >
             <div className="absolute w-full top-0  h-96 bg-lightBrown" ></div>
-                     <div className="w-full xl:w-4/6  justify-center xl:justify-between relative h-full flex  items-center">
+            <div className="w-full md:w-5/6 xl:w-4/6  justify-center md:justify-between relative h-full flex  items-center">
                             <div className="mb-64 md:mb-0">
-                                 <h1 className="text-5xl md:text-7xl  font-headers">Meble</h1>
-                                 <h1 className="text-5xl md:text-7xl  text-mainOrange font-headers">biurowe</h1>
+                                 <h1 className="text-5xl lg:text-6xl xl:text-7xl  font-headers">Meble</h1>
+                                 <h1 className="text-5xl lg:text-6xl xl:text-7xl  text-mainOrange font-headers">biurowe</h1>
                              </div>
                              <div className="absolute bottom-0 right-0">
                                  <img className="max-h-[230px] mr-[40px] md:mr-0 md:max-h-[640px]" src={OfficeGraphic} />

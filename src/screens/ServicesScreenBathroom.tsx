@@ -57,14 +57,14 @@ const ServicesScreenBathroom = () => {
     <div className="flex flex-col items-center">   
         <div className="relative w-full flex items-center justify-center h-[440px]" >
                  <div className="absolute w-full top-0  h-96 bg-bathroomBlue" ></div>
-                 <div className=" w-4/6 relative h-full flex justify-between items-center">
+                 <div className="w-full md:w-5/6 xl:w-4/6  justify-center md:justify-between relative h-full flex  items-center">
                          <div className="mb-64 md:mb-0">
-                             <h1 className="text-5xl md:text-7xl font-headers">Zabudowy</h1>
-                             <h1 className="text-5xl md:text-7xl text-mainOrange font-headers">łazienkowe,</h1>
-                             <h1 className="text-5xl md:text-7xl font-headers">pralnie</h1>
+                             <h1 className="text-5xl lg:text-6xl xl:text-7xl font-headers">Zabudowy</h1>
+                             <h1 className="text-5xl lg:text-6xl xl:text-7xl text-mainOrange font-headers">łazienkowe,</h1>
+                             <h1 className="text-5xl lg:text-6xl xl:text-7xl font-headers">pralnie</h1>
                          </div>
                          <div className="absolute -bottom-10 md:bottom-0 right-0">
-                             <img className="max-h-[300px] mr-[25px] md:mr-0 md:max-h-[440px]" src={BathroomGraphic} />
+                             <img className="max-h-[300px] mr-[100px] md:mr-0 md:max-h-[440px]" src={BathroomGraphic} />
                          </div>
                  </div>
              </div>

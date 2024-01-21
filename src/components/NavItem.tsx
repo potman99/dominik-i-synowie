@@ -8,7 +8,7 @@ interface Props {
 
 const NavItem = (props: Props): JSX.Element => {
   return (
-    <div className="flex flex-col group  h-9">
+    <div className="flex flex-col group h-9 min-w-max">
       <Link
         to={props.linkName}
         className="font-bold cursor-pointer"

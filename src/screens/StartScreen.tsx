@@ -2,7 +2,7 @@ import Vector1 from '../assets/start/weird2.svg'
 import Vector2 from '../assets/start/weird3.svg'
 import Furniture from '../assets/start/furniture.png'
 import text from '../constant/text.json'
-import BusinessCard from '../assets/start/IMG_3285.jpeg'
+import BusinessCard from '../assets/start/card.jpeg'
 
 const StartScreen = () => {
     return(
@@ -15,11 +15,11 @@ const StartScreen = () => {
                 <img className="absolute z-10 w-full md:w-5/12 right-0 top-0" src={Vector1} />
 
                 <div className="flex flex-col z-20 mb-52 md:mb-64 md:ml-32 gap-4">
-                    <h1 className="text-5xl md:text-8xl font-headers">Tradycja</h1>
-                    <h1 className="text-5xl md:text-8xl  font-headers text-mainOrange">Zobowiązuje</h1>
+                    <h1 className="text-5xl md:text-7xl xl:text-8xl font-headers">Tradycja</h1>
+                    <h1 className="text-5xl md:text-7xl xl:text-8xl  font-headers text-mainOrange">Zobowiązuje</h1>
                 </div>
-                <div className="z-20 h-96 md:h-screen md:mb-64 md:mr-32">
-                    <img className="w-full h-full" src={Furniture} />
+                <div className="z-20 h-96 md:h-screen md:mb-64 xl:mr-32  flex items-center">
+                    <img className="w-full h-fit" src={Furniture} />
                 </div>
             </div>
 

@@ -14,7 +14,7 @@ const AboutUsScreen = () => {
 
             <div className="relative w-full h-96 md:h-screen flex justify-center items-center">
                 <img className="absolute md:w-3/5 right-0 top-0" src={Vector} />
-                <img className="absolute md:w-2/3" src={CarpenterImg} />
+                <img className="absolute md:mb-36 md:w-2/3" src={CarpenterImg} />
             </div>
             
             

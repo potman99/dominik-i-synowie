@@ -23,15 +23,15 @@ const ServicesScreenUpholstery = () => {
         <div className="flex flex-col items-center">   
             <div className="relative w-full flex items-center justify-center h-[440px]" >
             <div className="absolute w-full top-0  h-96 bg-lightBrown" ></div>
-                     <div className="w-5/6 md:w-4/6 relative h-full flex justify-between items-center">
+            <div className="w-full md:w-5/6 xl:w-4/6  justify-center md:justify-between relative h-full flex  items-center">
                      <div className="mb-64 md:mb-0">
-                                 <h1 className="text-4xl md:text-7xl font-headers">Komody i szafy z</h1>
-                                 <h1 className="text-4xl md:text-7xl text-mainOrange font-headers">siedziskami</h1>
-                                 <h1 className="text-4xl md:text-7xl font-headers">tapicerowanymi</h1>
+                                 <h1 className="text-4xl lg:text-5xl xl:text-7xl font-headers">Komody i szafy z</h1>
+                                 <h1 className="text-4xl lg:text-5xl xl:text-7xl text-mainOrange font-headers">siedziskami</h1>
+                                 <h1 className="text-4xl lg:text-5xl xl:text-7xl font-headers">tapicerowanymi</h1>
 
                              </div>
                              <div className="absolute bottom-0 right-0">
-                                 <img className="max-h-[250px] mr-[35px] md:mr-0 md:max-h-[640px]" src={UpholsteryGraphic} />
+                                 <img className="max-h-[250px] mr-[70px] md:mr-0 md:max-h-[640px]" src={UpholsteryGraphic} />
                              </div>
                      </div>
                  </div>
