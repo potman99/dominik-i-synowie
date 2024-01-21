@@ -19,7 +19,7 @@ const StartScreen = () => {
                     <h1 className="text-5xl md:text-7xl xl:text-8xl  font-headers text-mainOrange">Zobowiązuje</h1>
                 </div>
                 <div className="z-20 h-96 md:h-screen md:mb-64 xl:mr-32  flex items-center">
-                    <img className="w-full h-fit" src={Furniture} />
+                    <img className="w-full h-auto" src={Furniture} />
                 </div>
             </div>
 
